@@ -1,5 +1,2 @@
 # xyphurr.github.io
-Testing stuff for a personal website
-
-
-Will probably break _lots_ of things until I learn something.
+Learning how to make a website using Jekyll.
